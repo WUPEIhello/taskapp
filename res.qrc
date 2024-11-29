@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/category.png</file>
+        <file>res/ddl.png</file>
+        <file>res/delete.png</file>
+        <file>res/detail.png</file>
+        <file>res/edit.png</file>
+        <file>res/priority.png</file>
+        <file>res/share.png</file>
+        <file>res/sort.png</file>
+        <file>res/tag.png</file>
+        <file>res/detail2.png</file>
+        <file>res/priority1.png</file>
+    </qresource>
+</RCC>
